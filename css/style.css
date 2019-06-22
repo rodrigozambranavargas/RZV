@@ -4,9 +4,22 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/html-template/blob/master/LICENSE)
  */
 
-body {
+body p {
   font-family: 'Titillium Web', sans-serif;
-  line-height: 1.8rem;
+  line-height: 1.5rem;
+}
+
+body h6 {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: bold;
+}
+
+body h2 {
+  font-family: 'Titillium Web', sans-serif;
+  border: 0;
+  font-size: 40px;
+  color: #727272;
+  font-weight: 100;
 }
 
 body h3 {
@@ -27,6 +40,22 @@ body h3 {
 
 .icon {
   color: #818181;
+}
+
+.icon:hover {
+  color: #00D2BE;
+}
+
+.link:hover {
+  color: #00D2BE;
+}
+
+.link {
+  color: black;
+}
+
+.line-height {
+  line-height: 0.8rem;
 }
 
 /* header.masthead h1 {
