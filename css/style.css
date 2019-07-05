@@ -65,6 +65,11 @@ body h6 {
   color: black;
 }
 
+.section2 img {
+  max-height: auto;
+  max-width: 300px;
+}
+
 .section3 img {
   max-height: auto;
   max-width: 300px;
