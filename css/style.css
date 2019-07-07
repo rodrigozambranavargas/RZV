@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - html-template v5.1.1 (https://startbootstrap.com/template-overviews/agency)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/html-template/blob/master/LICENSE)
+ * Start Bootstrap - rzv v1.0.0 ()
+ * Copyright 2013-2019 Rodrigo Zambrana
+ * Licensed under  (https://github.com/BlackrockDigital/rzv/blob/master/LICENSE)
  */
 
 body p {
@@ -100,15 +100,3 @@ body h6 {
 .linkf:hover {
   color: #00D2BE;
 }
-
-/* header.masthead h1 {
-  font-family: "acerfoco-i", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 2rem; //1rem = 16px
-  font-weight: none; 
-  line-height: 2.5rem;
-  color: rgb(255, 255, 255);  
-} 
- */
-/* .section1 {
-background-color: rgb(243, 239, 239);  
-} */

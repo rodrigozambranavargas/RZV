@@ -1,8 +1,5 @@
-fonts
 mail
 node_modules
 scss
-.travis.yml
 gulpfile.js
-package-lock.json
-package.json
+
